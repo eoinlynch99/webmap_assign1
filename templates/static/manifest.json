@@ -1,0 +1,9 @@
+{
+  "short_name": "Maps",
+  "name": "Google Maps",
+  "start_url": "/maps/?source=pwa",
+  "background_color": "#d66751",
+  "display": "standalone",
+  "scope": "/world/",
+  "theme_color": "#d64e33"
+}
